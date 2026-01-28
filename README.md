@@ -10,7 +10,11 @@
 
 ### 1. Data Loading & Inspection
 - Imported required libraries & Loaded the dataset
+  ![image](1.png)
+  
 - Checked data types, missing values, and general statistics
+  ![image](2.png)
+
 
 ### 2. Data Cleaning
 - Handled missing values using median and logical defaults & Removed unnecessary columns
