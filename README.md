@@ -1,8 +1,9 @@
 ## 🧰 Tools & Libraries Used
 - Python  
 - Pandas  
-- NumPy  
-- Jupyter Notebook  
+- NumPy
+- matplotlib.pyplot
+- Jupyter Notebook
 
 ---
 
